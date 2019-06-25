@@ -39,4 +39,4 @@ The file contains 3 folders, one for which condition of the road:
 
 ### Support or Contact
 
-If you need special help you can contact the current moderator of this page via Twitter:<a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> or via email (slower) <a href="mailto:suporte.longstreet@gmail.com">
