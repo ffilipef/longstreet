@@ -1,8 +1,8 @@
 ---
 layout: default_main
-title: Longboard Streets
+title: Longboard Street
 ---
-# Welcome to Longboard Streets
+# Welcome to Longboard Street
 
 #### Who we are?
 
