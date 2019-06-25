@@ -39,8 +39,16 @@ The file contains 3 folders, one for which condition of the road:
 
 ### Support or Contact
 
-If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> or via email (slower) <form id="fr1">
-    <input type="text" id="tb1" />
-    <input type="text" id="tb2" />
-    <input type="button" id="bt1" value="click" />
-</form>
+If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> or via email (slower) <script type="text/javascript">
+    function loadEvents() {
+        var mailString;
+        function updateMailString() {
+            mailString = '?subject=' + encodeURIComponent($('#subject').val())
+                + '&body=' + encodeURIComponent($('#message').val());
+            $('#mail-link').attr('href',  'mailto:suporte.longstreet@gmail.com' + mailString);
+        }
+        $( "#subject" ).focusout(function() { updateMailString(); });
+        $( "#message" ).focusout(function() { updateMailString(); });
+        updateMailString();
+    }
+</script>
