@@ -38,7 +38,39 @@ The file contains 3 folders, one for which condition of the road:
 
 #### I want to collaborate
 
-In this moment the only war
+In this moment the only way to you collaborate with us is using Google Earth:
+1. In My Places create a new folder with the town's name;
+2. Create 3 subfolders and name them each with one of the road conditions respectively (Good, Medium and Bad);
+3. Add a new path and name it with the respective name as you have seen in the table above;
+4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
+5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
+6. 
+
+
+
+##UPLOAD
+
+<form action="https://script.google.com/macros/s/#####/exec" id="form" method="post">
+        Upload a file
+        <div id="data"></div>
+        <input name="file" id="uploadfile" type="file">
+        <input id="submit" type="submit">
+    </form>
+    <script>
+    $('#uploadfile').on("change", function() {
+        var file = this.files[0];
+        var fr = new FileReader();
+        fr.fileName = file.name
+        fr.onload = function(e) {
+            e.target.result
+            html = '<input type="hidden" name="data" value="' + e.target.result.replace(/^.*,/, '') + '" >';
+            html += '<input type="hidden" name="mimetype" value="' + e.target.result.match(/^.*(?=;)/)[0] + '" >';
+            html += '<input type="hidden" name="filename" value="' + e.target.fileName + '" >';
+            $("#data").empty().append(html);
+        }
+        fr.readAsDataURL(file);
+    });
+    </script>
 
 ### Support or Contact
 
