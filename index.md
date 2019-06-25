@@ -50,27 +50,48 @@ In this moment the only way to you collaborate with us is using Google Earth:
 
 ##UPLOAD
 
-<form action="https://script.google.com/macros/s/#####/exec" id="form" method="post">
-        Upload a file
-        <div id="data"></div>
-        <input name="file" id="uploadfile" type="file">
-        <input id="submit" type="submit">
-    </form>
-    <script>
-    $('#uploadfile').on("change", function() {
-        var file = this.files[0];
-        var fr = new FileReader();
-        fr.fileName = file.name
-        fr.onload = function(e) {
-            e.target.result
-            html = '<input type="hidden" name="data" value="' + e.target.result.replace(/^.*,/, '') + '" >';
-            html += '<input type="hidden" name="mimetype" value="' + e.target.result.match(/^.*(?=;)/)[0] + '" >';
-            html += '<input type="hidden" name="filename" value="' + e.target.fileName + '" >';
-            $("#data").empty().append(html);
-        }
-        fr.readAsDataURL(file);
-    });
-    </script>
+<!-- Paste this into forms.html -->
+
+<!-- Text input fields -->
+<input id="name" type="text" placeholder="Your Name">
+<input id="email" type="email" placeholder="Your Email">
+<!-- File upload button -->
+<input id="file" type="file">
+<!-- Form submit button -->
+<button>Submit</button>
+<!-- Show Progress -->
+
+<!-- Add the jQuery library -->
+<script src="https://code.jquery.com/jquery.min.js"></script>
+
+<script>
+
+  var file, 
+      reader = new FileReader();
+
+  // Upload the file to Google Drive
+  reader.onloadend = function(e) {
+    google.script.run
+      .withSuccessHandler(showMessage)
+      .uploadFileToGoogleDrive(
+         e.target.result, file.name, 
+         $('input#name').val(), 
+         $('input#email').val()
+      );
+  };
+
+  // Read the file on form submit
+  function submitForm() {
+    file = $('#file')[0].files[0];
+    showMessage("Uploading file..");
+    reader.readAsDataURL(file);
+  }
+
+  function showMessage(e) {
+    $('#progress').html(e);
+  }
+
+</script>
 
 ### Support or Contact
 
