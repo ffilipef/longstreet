@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Welcome to Longboard Streets
 
 ## Who we are?
