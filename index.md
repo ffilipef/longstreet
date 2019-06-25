@@ -30,14 +30,15 @@ which serves to store geographical notes. This geographical notes are created on
 
 The file contains 3 folders, one for which condition of the road:
 
-| Road condition |    Line Color    |
-|:---------------|:-----------------|
-|      Good      |       Green      |
-|     Medium     | Yellow and Orange|
-|      Bad       |        Red       |
+| Road condition |    Line Color    |Name                      |
+|:---------------|:-----------------|:-------------------------|
+|      Good      |       Green      |Street A`numerical sequence`|
+|     Medium     | Yellow and Orange|Street B`numerical sequence`|
+|      Bad       |        Red       |Street C`numerical sequence`|
 
 #### I want to collaborate
 
+In this moment the only war
 
 ### Support or Contact
 
