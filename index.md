@@ -1,9 +1,12 @@
 # Welcome to Longboard Streets
 
 ## Who we are?
-You can use the [editor on GitHub](https://github.com/ffilipef/longstreet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+We are skaters who love riding exploring new paths, enjoying the surroundings. But one thing we hate is riding on roads that are in poor condition, that take us all the pleasure of the moment.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1h9xnP5n6vODmKt42im5KxBA_JoFAArFk" width="640" height="480"></iframe>
 
 ### Markdown
 
