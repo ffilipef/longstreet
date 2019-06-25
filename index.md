@@ -24,7 +24,7 @@ This is completely free, but if you want to support our team, please <style>.bmc
 
 #### How it works?
 
-In your Google Earth or in Google [MyMaps](https://www.google.com/mymaps/) upload the provided [File](./map-page.html).
+In your Google Earth or in Google [MyMaps](https://www.google.com/mymaps/) upload the provided **[File](./map-page.html)**, by going to the **[Map-Page](./map-page.html)**.
 The file type is .kmz (Keyhole Markup Language "zipped")
 which serves to store geographical notes. This geographical notes are created one by one for us or for anyone that want to collaborate with us.
 
@@ -44,54 +44,8 @@ In this moment the only way to you collaborate with us is using Google Earth:
 3. Add a new path and name it with the respective name as you have seen in the table above;
 4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
 5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
-6. 
+6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
 
-
-
-##UPLOAD
-
-<!-- Paste this into forms.html -->
-
-<!-- Text input fields -->
-<input id="name" type="text" placeholder="Your Name">
-<input id="email" type="email" placeholder="Your Email">
-<!-- File upload button -->
-<input id="file" type="file">
-<!-- Form submit button -->
-<button>Submit</button>
-<!-- Show Progress -->
-
-<!-- Add the jQuery library -->
-<script src="https://code.jquery.com/jquery.min.js"></script>
-
-<script>
-
-  var file, 
-      reader = new FileReader();
-
-  // Upload the file to Google Drive
-  reader.onloadend = function(e) {
-    google.script.run
-      .withSuccessHandler(showMessage)
-      .uploadFileToGoogleDrive(
-         e.target.result, file.name, 
-         $('input#name').val(), 
-         $('input#email').val()
-      );
-  };
-
-  // Read the file on form submit
-  function submitForm() {
-    file = $('#file')[0].files[0];
-    showMessage("Uploading file..");
-    reader.readAsDataURL(file);
-  }
-
-  function showMessage(e) {
-    $('#progress').html(e);
-  }
-
-</script>
 
 ### Support or Contact
 
