@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-# Welcome to Longboard Streets
+#Longboard Streets
 
-## Who we are?
+## Welcome to Longboard Streets
+
+### Who we are?
 
 We are skaters who love riding exploring new paths, enjoying the surroundings. But one thing we hate is riding on roads that are in poor condition, that take us all the pleasure of the moment.
 
