@@ -4,7 +4,7 @@ title: Longboard Street
 ---
 # Welcome to Longboard Street
 
-**### Who we are?**
+### **Who we are?**
 
 We are skaters who love riding exploring new paths, enjoying the surroundings. But one thing we hate is riding on roads that are in poor condition, that take us all the pleasure of the moment.
 
