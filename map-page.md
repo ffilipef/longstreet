@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_map
 title: Another page
 description: This is just another page
 ---
