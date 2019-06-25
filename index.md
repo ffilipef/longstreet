@@ -36,7 +36,10 @@ The file contains 3 folders, one for which condition of the road:
 |     Medium     | Yellow and Orange|
 |      Bad       |        Red       |
 
+#### I want to collaborate
+
 
 ### Support or Contact
 
-If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> or send us an email (slower) for ```suporte.longstreet@gmail.com```
+If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+or send us an email (slower) for ```suporte.longstreet@gmail.com```
