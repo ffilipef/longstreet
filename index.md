@@ -4,15 +4,15 @@ title: Longboard Streets
 ---
 # Welcome to Longboard Streets
 
-### Who we are?
+#### Who we are?
 
 We are skaters who love riding exploring new paths, enjoying the surroundings. But one thing we hate is riding on roads that are in poor condition, that take us all the pleasure of the moment.
 
-### Our goal?
+#### Our goal?
 
 Our goal is to create a way to everyone can see the road conditions every where. For that we think in a simple solution, creating a file that everyone will be able to upload in their maps service (e.g Google Maps, Goole Earth, etc.), and that everyone can collaborate.
 
-### How it works?
+#### How it works?
 
 The file type is .kmz (Keyhole Markup Language "zipped")
 which serves to store geographical notes. This geographical notes are created one by one for us or for anyone that want to collaborate with us.
