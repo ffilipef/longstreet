@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_main
 title: Longboard Streets
 ---
 # Welcome to Longboard Streets
