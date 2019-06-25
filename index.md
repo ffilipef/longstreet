@@ -4,25 +4,25 @@ title: Longboard Street
 ---
 # Welcome to Longboard Street
 
-#### Who we are?
+### Who we are?
 
 We are skaters who love riding exploring new paths, enjoying the surroundings. But one thing we hate is riding on roads that are in poor condition, that take us all the pleasure of the moment.
 
-#### Our goals?
+### Our goals?
 
 Our main goal is to create a way to everyone can see the roads conditions every where in the world, and in the same way being able to create and update that conditions.
 
 Our next goal is to develop a mobile app for make everything more easy.
 
-#### Our Solution!
+### Our Solution!
 
 For that we think in a simple solution, creating a file that everyone will be able to upload in their maps service (e.g Google Maps, Goole Earth, etc.), and that everyone can collaborate.
 
-#### What's the cost?
+### What's the cost?
 
 This is completely free, but if you want to support our team, please <style>.bmc-button img{width: 27px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{line-height: 36px !important;height:37px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#FF813F !important;border-radius: 3px !important;border: 1px solid transparent !important;padding: 1px 9px !important;font-size: 22px !important;letter-spacing:0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/longstreet"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/BMC-btn-logo.svg" alt="Buy us a coffee"><span style="margin-left:5px">Buy us a coffee</span></a>
 
-#### How it works?
+### How it works?
 
 In your Google Earth or in Google [MyMaps](https://www.google.com/mymaps/) upload the provided **[File](./map-page.html)**, by going to the **[Map-Page](./map-page.html)**.
 The file type is .kmz (Keyhole Markup Language "zipped")
@@ -36,7 +36,7 @@ The file contains 3 folders, one for which condition of the road:
 |     Medium     | Yellow and Orange|Street B`numerical sequence`|
 |      Bad       |        Red       |Street C`numerical sequence`|
 
-#### I want to collaborate
+### I want to collaborate
 
 In this moment the only way to you collaborate with us is using Google Earth:
 1. In My Places create a new folder with the town's name;
