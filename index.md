@@ -14,7 +14,7 @@ Our goal is to create a way to everyone can see the road conditions every where.
 
 #### How it works?
 
-In your Google Earth or in [MyMaps](https://www.google.com/mymaps/) upload the provided [File](./map-page.html)
+In your Google Earth or in Google [MyMaps](https://www.google.com/mymaps/) upload the provided [File](./map-page.html)
 The file type is .kmz (Keyhole Markup Language "zipped")
 which serves to store geographical notes. This geographical notes are created one by one for us or for anyone that want to collaborate with us.
 
