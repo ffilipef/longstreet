@@ -1,6 +1,6 @@
 ---
-layout: default_map
-title: Map Page
+layout: default_map_pt-Pt
+title: Mapa
 ---
 
 # **EM BREVE**
