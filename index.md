@@ -13,11 +13,11 @@ We are skaters who love riding exploring new paths, enjoying the surroundings. B
 
 Our main goal is to create a way to everyone can see the roads conditions every where in the world, and in the same way being able to create and update that conditions.
 
-Our next goal is to develop a mobile app for make everything more easy.
+Our next goal is to develop a mobile app for make everything more easy and simple.
 
 ### Our Solution!
 
-For that we think in a simple solution, creating a file that everyone will be able to upload in their maps service (e.g Google Maps, Goole Earth, etc.), and that everyone can collaborate.
+We think in a simple solution, creating a file that everyone will be able to upload in their maps service (e.g. Google Maps, Goole Earth, etc.), and that everyone can collaborate.
 
 ### What's the cost?
 
