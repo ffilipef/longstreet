@@ -16,7 +16,7 @@ O nosso principal objetivo é criar uma forma de todos poderem ver as condiçõe
 
 O nosso segundo objetivo é desenvolver uma aplicação para tornar todo este projeto mais fácil e simples.
 
-### A Solução!
+### A Solução?
 
 Nós pensamos numa simples solução, criar um ficheiro que toda a gente possa fazer o upload para o seu serviço de mapas (p.ex. Google Maps, Google Earth, etc.), e que todos possam de alguma forma colaborar.
 
