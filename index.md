@@ -2,9 +2,7 @@
 layout: default_main
 title: Longboard Street
 ---
-{% if site.show_map %}
-        <a href="map-page.html" class="btn">View Map</a>
-      {% endif %}
+[english](./index.html) [portuguese](./index_pt-Pt.html)
 # Welcome to Longboard Street
 
 ### Who we are?
@@ -41,14 +39,14 @@ The file contains 3 folders, one for which condition of the road:
 
 ### I want to collaborate
 
-In this moment the only way to you collaborate with us is using Google Earth:
-1. In My Places create a new folder with the town's name;
-2. Create 3 subfolders and name them each with one of the road conditions respectively (Good, Medium and Bad);
-3. Add a new path and name it with the respective name as you have seen in the table above;
-4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
-5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
-6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
-
+> In this moment the only way to you collaborate with us is using Google Earth:
+> 1. In My Places create a new folder with the town's name;
+> 2. Create 3 subfolders and name them each with one of the road conditions respectively (Good, Medium and Bad);
+> 3. Add a new path and name it with the respective name as you have seen in the table above;
+> 4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
+> 5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
+> 6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
+>
 
 ### Support or Contact
 
