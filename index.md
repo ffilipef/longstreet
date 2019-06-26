@@ -2,6 +2,9 @@
 layout: default_main
 title: Longboard Street
 ---
+{% if site.show_map %}
+        <a href="map-page.html" class="btn">View Map</a>
+      {% endif %}
 # Welcome to Longboard Street
 
 ### Who we are?
