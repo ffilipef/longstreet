@@ -2,7 +2,7 @@
 layout: default_main
 title: Longboard Street
 ---
-[english](./index.html) [portuguese](./index_pt-Pt.html)
+                                            [English](./index.html)     [Portuguese](./index_pt-Pt.html)
 # Welcome to Longboard Street
 
 ### Who we are?
@@ -46,7 +46,6 @@ The file contains 3 folders, one for which condition of the road:
 > 4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
 > 5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
 > 6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
->
 
 ### Support or Contact
 
