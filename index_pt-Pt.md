@@ -47,7 +47,7 @@ Neste momento, a única maneira de colaborar connosco é utilizando o Google Ear
 3. Adicione um novo caminho e nomeie-o com o respectivo nome, como está na tabela acima;
 4. Na aba `Estilo, Cor`, selecione a respectiva cor e defina a largura para` 3.0`;
 5. Depois de adicionar todas as estradas que desejar, clique com o botão direito na pasta principal, selecione `Guardar Local Como ...` e guarde-a onde quiser;
-6. Para terminar, faça o upload do arquivo **[nesta](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** pasta do Google Drive para alguém da nossa equipa verificar se está tudo correto e adicioná-lo ao **[Arquivo](./ map-page.html)** principal
+6. Para terminar, faça o upload do arquivo **[nesta](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** pasta do Google Drive para alguém da nossa equipa verificar se está tudo correto e adicioná-lo ao **[Arquivo](./map-page.html)** principal
 
 
 ### Support or Contact
