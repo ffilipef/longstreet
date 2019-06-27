@@ -30,6 +30,7 @@ In your Google Earth or in Google [MyMaps](https://www.google.com/mymaps/) uploa
 The file type is .kmz (Keyhole Markup Language "zipped")
 which serves to store geographical notes. This geographical notes are created one by one for us or for anyone that want to collaborate with us.
 
+> (In Google Earth/Maps)
 The file contains 3 folders, one for which condition of the road:
 
 | Road condition |    Line Color    |Name                      |
@@ -38,7 +39,7 @@ The file contains 3 folders, one for which condition of the road:
 |     Medium     | Yellow and Orange|Street B`numerical sequence`|
 |      Bad       |        Red       |Street C`numerical sequence`|
 
-### I want to collaborate
+### I want to collaborate!
 
 > In this moment the only way to you collaborate with us is using Google Earth:
 > 1. In My Places create a new folder with the town's name;
@@ -48,7 +49,7 @@ The file contains 3 folders, one for which condition of the road:
 > 5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
 > 6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
 
-### Support or Contact
+### **Support or Contact**
 
 If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 or send us an email (slower) for ```suporte.longstreet@gmail.com```
