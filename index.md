@@ -43,8 +43,8 @@ The file contains 3 folders, one for which condition of the road:
 ### I want to collaborate!
 
 > In this moment the only way to you collaborate with us is using Google Earth:
-> 1. In My Places create a new folder with the town's name;
-> 2. Create 3 subfolders and name them each with one of the road conditions respectively (Good, Medium and Bad);
+> 1. In `My Places` create a new folder with the town's name;
+> 2. Create 3 subfolders and name them each with one of the road conditions respectively `Good, Medium and Bad`;
 > 3. Add a new path and name it with the respective name as you have seen in the table above;
 > 4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
 > 5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
