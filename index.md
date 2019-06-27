@@ -31,6 +31,7 @@ The file type is .kmz (Keyhole Markup Language "zipped")
 which serves to store geographical notes. This geographical notes are created one by one for us or for anyone that want to collaborate with us.
 
 > (In Google Earth/Maps)
+
 The file contains 3 folders, one for which condition of the road:
 
 | Road condition |    Line Color    |Name                      |
