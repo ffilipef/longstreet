@@ -39,15 +39,15 @@ O ficheiro contém 3 pastas, uma para cada condição da estrada:
 | Mediana | Amarelo ou Laranja |Estrada B`Numero Sequencial`|
 | Má | Vermelho |Estrada C`Numero Sequencial`|
 
-### I want to collaborate!
+### Quero colaborar!
 
-In this moment the only way to you collaborate with us is using Google Earth:
-1. In My Places create a new folder with the town's name;
-2. Create 3 subfolders and name them each with one of the road conditions respectively (Good, Medium and Bad);
-3. Add a new path and name it with the respective name as you have seen in the table above;
-4. In the `Style, Color` tab, select the respective color and set the width to `3.0`;
-5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
-6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
+Neste momento, a única maneira de colaborar connosco é utilizando o Google Earth:
+1. Em `Meus locais`, crie uma nova pasta com o nome da cidade;
+2. Crie 3 sub-pastas e nomeie cada uma delas com uma das condições da estrada, respectivamente `Boa, Mediana e Má`;
+3. Adicione um novo caminho e nomeie-o com o respectivo nome, como está na tabela acima;
+4. Na aba `Estilo, Cor`, selecione a respectiva cor e defina a largura para` 3.0`;
+5. Depois de adicionar todas as estradas que desejar, clique com o botão direito na pasta principal, selecione `Guardar Local Como ...` e guarde-a onde quiser;
+6. Para terminar, faça o upload do arquivo **[nesta] (https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** pasta do Google Drive para alguém da nossa equipa verificar se está tudo correto e adicioná-lo ao **[Arquivo] (./ map-page.html)** principal
 
 
 ### Support or Contact
