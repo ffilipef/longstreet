@@ -30,6 +30,7 @@ No teu Google Earth ou no Google [MyMaps](https://www.google.com/mymaps/) faz up
 O ficheiro é do tipo .kmz (Keyhole Markup Language "zipado") que serve para armazenar notas geográficas. Estas notas geográficas sao criadas uma a uma, por nós ou por alguém que quer colaborar com a nossa equipa.
 
 > (No Google Earth/Maps)
+
 O ficheiro contém 3 pastas, uma para cada condição da estrada:
 
 | Condição da Estrada |    Cor da Linha    |Nome                     |
