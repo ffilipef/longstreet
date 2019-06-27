@@ -2,7 +2,7 @@
 layout: default_main_pt-Pt
 title: Longboard Street
 ---
-[English](./index.html)  |  [Portuguese](./pt_PT/index_pt-Pt.html)
+[English](/index.html)  |  [Portuguese](./pt_PT/index_pt-Pt.html)
 * * *
 # Bem Vindo ao Longboard Street
 
