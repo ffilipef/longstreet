@@ -26,20 +26,19 @@ O nosso projeto não tem culto algum, embora se quiseres dar suporte ao trabalho
 
 ### Como é que funciona?
 
-No teu
-In your Google Earth or in Google [MyMaps](https://www.google.com/mymaps/) upload the provided **[File](./map-page.html)**, by going to the **[Map-Page](./map-page.html)**.
-The file type is .kmz (Keyhole Markup Language "zipped")
-which serves to store geographical notes. This geographical notes are created one by one for us or for anyone that want to collaborate with us.
+No teu Google Earth ou no Google [MyMaps](https://www.google.com/mymaps/) faz upload do **[Ficheiro](./map-page.html)** fornecido, indo à página do **[Mapa](./map-page.html)**.
+O ficheiro é do tipo .kmz (Keyhole Markup Language "zipado") que serve para armazenar notas geográficas. Estas notas geográficas sao criadas uma a uma, por nós ou por alguém que quer colaborar com a nossa equipa.
 
-The file contains 3 folders, one for which condition of the road:
+> (No Google Earth/Maps)
+O ficheiro contém 3 pastas, uma para cada condição da estrada:
 
-| Road condition |    Line Color    |Name                      |
+| Condição da Estrada |    Cor da Linha    |Nome                     |
 |:---------------|:-----------------|:-------------------------|
-|      Good      |       Green      |Street A`numerical sequence`|
-|     Medium     | Yellow and Orange|Street B`numerical sequence`|
-|      Bad       |        Red       |Street C`numerical sequence`|
+| Boa | Verde |Estrada A`Numero Sequencial`|
+| Mediana | Amarelo ou Laranja |Estrada B`Numero Sequencial`|
+| Má | Vermelho |Estrada C`Numero Sequencial`|
 
-### I want to collaborate
+### I want to collaborate!
 
 In this moment the only way to you collaborate with us is using Google Earth:
 1. In My Places create a new folder with the town's name;
