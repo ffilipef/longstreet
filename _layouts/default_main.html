@@ -39,7 +39,9 @@
     </header>
 
     <main id="main" class="main-content" role="main">
-      {{ content }}
+        {% if site.show_content %}
+        {{ content }}
+      {% endif %}
 
       <footer class="site-footer">
         <span class="site-footer-credits">© 2019 Longstreet.</span>
