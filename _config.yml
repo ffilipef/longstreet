@@ -6,4 +6,4 @@ show_link: true
 show_credits: false
 show_ads: true
 show_content: true
-show_alert: false
+show_alert: true
