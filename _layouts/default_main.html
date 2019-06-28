@@ -6,7 +6,7 @@
             alert("Hello! I am an alert box!");
           }
           </script>
-          
+
       {% if site.show_ads %}
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <script>
@@ -43,6 +43,14 @@
         <a href="map-page.html" class="btn">View Map</a>
       {% endif %}
     </header>
+
+    <script>
+        var simpleAlert = document.querySelector(".simple-alert");
+        simpleAlert.addEventListener("click", function (e) {
+            e.preventDefault();
+            alert("This is an Alert Dialog");
+        });
+    </script>
 
     <main id="main" class="main-content" role="main">
         {% if site.show_content %}
