@@ -4,3 +4,4 @@ show_map: true
 show_downloads: true
 show_link: true
 show_credits: false
+show_ads: true
