@@ -54,3 +54,8 @@ Neste momento, a única maneira de colaborar connosco é utilizando o Google Ear
 
 If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 or send us an email (slower) for ```suporte.longstreet@gmail.com```
+
+* * *
+##### Sponsors
+
+![Landyachtz](https://media.licdn.com/dms/image/C560BAQHr4SNEJGsERQ/company-logo_200_200/0?e=2159024400&v=beta&t=GrS3lVYONo04ZlyAnPb7jAAqH0zwyAgnEEJ5HSS0zO8)
