@@ -42,10 +42,11 @@
         {% if site.show_content %}
         {{ content }}
       {% endif %}
-
+      {% if site.show_alert %}
       <script>
           setTimeout(function(){ alert("Our website is under development. We apologize for any mistakes you may have. If you need any help, at the end of the website is a way to contact us. Thanks for your visit."); }, 1500);
       </script>
+      {% endif %}
 
       <footer class="site-footer">
         <span class="site-footer-credits">© 2019 Longstreet.</span>
