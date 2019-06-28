@@ -40,11 +40,7 @@
 
     <main id="main" class="main-content" role="main">
         <script>
-            var simpleAlert = document.querySelector(".simple-alert");
-            simpleAlert.addEventListener("click", function (e) {
-                e.preventDefault();
                 alert("This is an Alert Dialog");
-            });
         </script>
         {% if site.show_content %}
         {{ content }}
