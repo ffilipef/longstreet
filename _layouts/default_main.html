@@ -39,12 +39,13 @@
     </header>
 
     <main id="main" class="main-content" role="main">
-        <script>
-                alert("This is an Alert Dialog");
-        </script>
         {% if site.show_content %}
         {{ content }}
       {% endif %}
+
+      <script>
+          alert("This is an Alert Dialog");
+      </script>
 
       <footer class="site-footer">
         <span class="site-footer-credits">© 2019 Longstreet.</span>
