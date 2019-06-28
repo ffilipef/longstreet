@@ -58,4 +58,6 @@ or send us an email (slower) for ```suporte.longstreet@gmail.com```
 * * *
 ##### Sponsors
 
-![Landyachtz](https://media.licdn.com/dms/image/C560BAQHr4SNEJGsERQ/company-logo_200_200/0?e=2159024400&v=beta&t=GrS3lVYONo04ZlyAnPb7jAAqH0zwyAgnEEJ5HSS0zO8)
+<a href="https://landyachtz.com/">
+<img alt="W3Schools" src="https://media.licdn.com/dms/image/C560BAQHr4SNEJGsERQ/company-logo_200_200/0?e=2159024400&v=beta&t=GrS3lVYONo04ZlyAnPb7jAAqH0zwyAgnEEJ5HSS0zO8" width="50" height="50">
+</a>
