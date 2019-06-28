@@ -6,11 +6,7 @@ title: Map Page
 
 <script>
 function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(39.91696377507728,-8.628558544377029),
-  zoom:5,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+var map = new google.maps.Map(document.getElementById("googleMap"));
 }
 </script>
 
