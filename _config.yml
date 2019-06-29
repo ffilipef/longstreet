@@ -8,3 +8,4 @@ show_credits: false
 show_ads: true
 show_content: true
 show_alert: true
+show_ads#1: true
