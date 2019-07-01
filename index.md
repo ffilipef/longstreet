@@ -4,7 +4,7 @@ title: Longboard Street
 ---
 [English](/index.html)  |  [Portuguese](./pt_PT/index_pt-Pt.html)
 * * *
-[anchor](#support-or-contact)
+[anchor](#what's-the-cost)
 # Welcome to Longboard Street
 
 ### Who we are?
