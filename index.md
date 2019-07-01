@@ -4,6 +4,7 @@ title: Longboard Street
 ---
 [English](/index.html)  |  [Portuguese](./pt_PT/index_pt-Pt.html)
 * * *
+[anchor](#support-or-contact)
 # Welcome to Longboard Street
 
 ### Who we are?
@@ -50,7 +51,7 @@ The file contains 3 folders, one for which condition of the road:
 > 5. After adding all the roads you want, right click on the main folder, select `Save Place As...` and save it on wherever you want;
 > 6. To finish, upload the file in **[this](https://drive.google.com/drive/folders/1cl5e8y1r_LbsmGRDXbHvVvyDuzq1QqYB?usp=sharing)** Google Drive folder, to someone check if is everything correct with it and to add it to the main **[File](./map-page.html)**
 
-### **Support or Contact**
+### Support or Contact
 
 If you need special help you can contact the current moderator of this page via Twitter <a href="https://twitter.com/messages/compose?recipient_id=4897576721&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="@otalfilipe" data-show-count="false">Message @@otalfilipe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 or send us an email (slower) for ```suporte.longstreet@gmail.com```
