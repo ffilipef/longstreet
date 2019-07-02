@@ -7,5 +7,4 @@ show_link: true
 show_credits: false
 show_ads: true
 show_content: true
-show_alert: false
-show_ads#1: true
+show_alert: true
